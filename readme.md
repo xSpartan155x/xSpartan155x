@@ -17,7 +17,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 Wanna have chat with me? Join my tech communities!
 
-[![Community](https://discord.gg/HW3HYUjaRw)
+![Community](https://discord.gg/HW3HYUjaRw)
 
 ---
 
