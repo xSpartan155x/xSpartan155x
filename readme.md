@@ -4,7 +4,7 @@
 
 ![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)
 
-An Italian Web Developer, Designer, App Developer, , from Italy. 💻💖☕
+An Italian Web Developer, Designer, App Developer and aspirant Game Developer from Italy. 💻💖☕
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
