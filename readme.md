@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend+Developer;App+Developer;Designer+in+free+time)](https://git.io/typing-svg)
 
-[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile]](https://holopin.io/@warengonzaga)
+[An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)
 
 A Italian Web Developer, Designer, App Developer, , from Italy. 💻💖☕
 
