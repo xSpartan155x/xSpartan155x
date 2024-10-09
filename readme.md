@@ -25,5 +25,5 @@ Wanna have chat with me? Join my tech communities!
 
 ![](https://wallpapercave.com/wp/wp1890454.jpg)
 
-💻💖☕ by [xSpartan155x](https://github.com/xSpartan155x)
+💻💖 by [xSpartan155x](https://github.com/xSpartan155x)
 
