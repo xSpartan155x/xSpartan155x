@@ -21,10 +21,6 @@ Wanna have chat with me? Join my tech communities!
 
 ---
 
-<!-- markdownlint-disable MD033 -->
-
----
-
 💻💖☕ by [xSpartan155x](https://github.com/xSpartan155x)
 
 [personal website]: https://warengonzaga.com
