@@ -6,6 +6,8 @@
 
 An Italian Web Developer, Designer, App Developer and aspirant Game Developer from Italy. 💻💖☕
 
+- 💰 I am Passionate about the saga of PAYDAY
+- 🎮 I love video games.
 - 🔏 Bug bounty hunter in free time.
 - 🎯 Wasting my time to save other people's time.
 
