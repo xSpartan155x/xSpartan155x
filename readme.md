@@ -27,10 +27,3 @@ Wanna have chat with me? Join my tech communities!
 
 💻💖☕ by [xSpartan155x](https://github.com/xSpartan155x)
 
-[personal website]: https://warengonzaga.com
-[business website]: https://wgcompanyhq.com
-[biolink]: https://bio.link/warengonzaga
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/wrngnzg
-[youtube]: https://youtube.com/warengonzaga
