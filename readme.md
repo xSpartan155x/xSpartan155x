@@ -17,7 +17,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 Wanna have chat with me? Join my tech communities!
 
-[![Community](https://discordapp.com/api/guilds/970915199617990707/widget.png?style=banner2)](https://web3philippines.org)
+[![Community](https://discordapp.com/api/guilds/1130271410149937182/widget.png?style=banner2)](https://web3philippines.org)
 
 ---
 
