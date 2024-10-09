@@ -1,43 +1,4 @@
-<style>
-    .custom-navbar-bg {
-      background-color: #32373e;
-    }
-    .custom-container {
-      max-width: 88.02%;
-      margin: auto;
-    }
-    .custom-link-color {
-      color: #ffffff;
-    }
-    .custom-link-color:hover {
-      color: #007bf9;
-    }
-    .custom-header-distance {
-      padding-top: 5em;
-    }
-    .custom-font-size {
-      font-size: 1.4rem;
-    }
-    * {
-      font-family: -apple-system,
-        BlinkMacSystemFont, Segoe UI, Roboto,
-        Helvetica Neue, Arial, Noto Sans,
-        sans-serif, Apple Color Emoji,
-        Segoe UI Emoji, Segoe UI Symbol,
-        Noto Color Emoji;
-    }
-    .custom-card-bg {
-      background-color: #2b3036;
-    }
-
-    .custom-card-height {
-      width: 100%;
-    }
-  </style>
-      <nav
-        class="navbar navbar-expand-md navbar-dark rounded custom-navbar-bg p-2 fw-medium fixed-top"
-      >
-        <div class="container-fluid">
+<div class="container-fluid">
           <a class="navbar-brand" href="#"
             ><img
               src="/assets/img/mws_logo_white.svg"
