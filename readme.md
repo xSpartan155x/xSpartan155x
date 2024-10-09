@@ -6,8 +6,6 @@
 
 An Italian Web Developer, Designer, App Developer and aspirant Game Developer from Italy. 💻💖☕
 
-🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
-
 - 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
 - 🔏 Bug bounty hunter in free time.
 - ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
@@ -15,7 +13,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,nodejs,mysql,py,git,figma,vscode&theme=light)
 
 ## 🌏 Co-Founded Tech Communities
 
