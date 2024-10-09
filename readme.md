@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend+Developer;App+Developer;Designer+in+free+time)](https://git.io/typing-svg)
 
-[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/warengonzaga)](https://holopin.io/@warengonzaga)
+[![An image of @warengonzaga's Holopin badges, which is a link to view their full Holopin profile]](https://holopin.io/@warengonzaga)
 
-A Filipino self-taught software engineer, open-source maintainer, cybersecurity researcher, tech community builder, web3 enthusiast, and technopreneur from the Philippines. 💻💖☕
+A Italian Web Developer, Designer, App Developer, , from Italy. 💻💖☕
 
 🎙 [Recent Tech Talks](https://www.polywork.com/warengonzaga/collections/1284) • 📦 [Open Source Updates](https://www.polywork.com/warengonzaga/collections/1194)
 
