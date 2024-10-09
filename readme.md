@@ -6,9 +6,7 @@
 
 An Italian Web Developer, Designer, App Developer and aspirant Game Developer from Italy. 💻💖☕
 
-- 💼 Customer Success Engineer @ [thirdweb](https://github.com/thirdweb-dev)
 - 🔏 Bug bounty hunter in free time.
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga) or [send me some love](https://github.com/sponsors/warengonzaga).
 - 🎯 Wasting my time to save other people's time.
 
 ## 🔧 Technologies
