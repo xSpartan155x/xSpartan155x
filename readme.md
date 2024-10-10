@@ -13,7 +13,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,nodejs,mysql,py,git,vscode&theme=light,figma)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,wordpress,nodejs,mysql,py,git,vscode,figma&theme=light)
 
 ## My social
 
