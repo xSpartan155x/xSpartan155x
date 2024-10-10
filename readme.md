@@ -23,7 +23,7 @@ Wanna have chat with me? Join my tech communities!
 
 ## 👋 Goodbye 
 
-![](https://wallpapercave.com/wp/wp1890454.jpg)
+![](./footer.jpg)
 
 💻💖 by [xSpartan155x](https://github.com/xSpartan155x)
 
