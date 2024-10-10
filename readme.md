@@ -4,6 +4,8 @@
 
 ![](./assets/img/header.jpg)
 
+## 😃 About me
+
 An Italian Web Developer, Designer, App Developer and aspirant Game Developer from Italy. 💻💖☕
 
 - 💰 I am Passionate about the saga of PAYDAY
