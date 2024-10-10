@@ -1,4 +1,4 @@
-# Hi, I'm xSpartan155x (💻💖)
+# Hi, I'm Spartan (💻💖)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend+Developer;App+Developer;Designer+in+free+time)
 
