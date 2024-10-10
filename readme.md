@@ -17,7 +17,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 ## 📷 My social
 
-
+![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg) ![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg)
 
 ## 🌏 My Discord Server
 
