@@ -17,7 +17,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 ## 📷 My social
 
-![](./assets/social/github.svg)
+![](./assets/social/instagram.svg)
 
 ## 🌏 My Discord Server
 
