@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend+Developer;App+Developer;Designer+in+free+time)](https://git.io/typing-svg)
 
-![](https://www.paydaythegame.com/ovk-media/redux/fanservice/payday3/launch/pd3-teaser-city.jpg)
+![](./header.jpg)
 
 An Italian Web Developer, Designer, App Developer and aspirant Game Developer from Italy. 💻💖☕
 
