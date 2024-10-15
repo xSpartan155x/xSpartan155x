@@ -15,13 +15,6 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 - 🔏 Bug bounty hunter in free time.
 - 🎯 Wasting my time to save other people's time.
 
-## ✨ | Contributors
-
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
-
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,nodejs,npm,mysql,py,c,cpp,java,lua,discord,bots,discordjs,unity,github,gitlab,git,vscode,figma,ps,pr,ae,gmail,linux,ubuntu,kali,windows&theme=light)
