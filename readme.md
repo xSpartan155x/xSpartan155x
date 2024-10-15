@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend+Developer;App+Developer;Designer+in+free+time)
 
-![](./assets/img/header.jpg)
+![](./assets/img/header.png)
 
 ## 😃 About me
 
@@ -29,6 +29,6 @@ Wanna have chat with me? Join my tech communities!
 
 ## 👋 Goodbye
 
-![](./assets/img/footer.jpg)
+![](./assets/img/footer.png)
 
 💻💖 by [xSpartan155x](https://github.com/xSpartan155x)
