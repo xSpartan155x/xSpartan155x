@@ -15,6 +15,10 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 - 🔏 Bug bounty hunter in free time.
 - 🎯 Wasting my time to save other people's time.
 
+## My Cllaborator
+
+![](https://avatars.githubusercontent.com/u/84318295?v=4.png) [Ghostinoilpostino](https://github.com/Ghostinoilpostino)
+
 ## 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,nodejs,npm,mysql,py,c,cpp,java,lua,discord,bots,discordjs,unity,github,gitlab,git,vscode,figma,ps,pr,ae,gmail,linux,ubuntu,kali,windows&theme=light)
