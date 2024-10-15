@@ -1,3 +1,10 @@
+<style>h1,h2,h3,h4,h5,h6,p {
+font-family: 'JetBrains Mono';
+src: url('./assets/fonts/JetBrainsMono-Regular.ttf');
+font-weight: normal;
+font-style: normal;
+}
+</style>
 # Hi, I'm Spartan (💻💖)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Frontend+Developer;App+Developer;Designer+in+free+time)
