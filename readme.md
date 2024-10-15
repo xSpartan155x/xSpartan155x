@@ -22,7 +22,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 [![](./assets/social/youtube.svg)](https://www.youtube.com/@xSpartan155x) [![](./assets/social/twitch.svg)](https://www.twitch.tv/xspartan155xlive) [![](./assets/social/instagram.svg)](https://www.instagram.com/xspartan155x/) [![](./assets/social/stack-overflow.svg)](https://stackoverflow.com/users/27729442/spartan) [![](./assets/social/github.svg)](https://github.com/xSpartan155x) [![](./assets/social/twitterx.svg)](https://x.com/xSpartan155x)
 
 ## 🌏 My Discord Server
-
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 Wanna have chat with me? Join my tech communities!
 
 [![Community](https://discordapp.com/api/guilds/1130271410149937182/widget.png?style=banner2)](https://discord.gg/HW3HYUjaRw)
