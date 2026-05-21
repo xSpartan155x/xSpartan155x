@@ -17,7 +17,7 @@ An Italian Web Developer, Designer, App Developer and aspirant Game Developer fr
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,php,bootstrap,wordpress,angular,nodejs,npm,electron,mysql,py,c,cpp,java,lua,discord,bots,discordjs,unity,github,gitlab,git,stackoverflow,vscode,figma,ps,pr,ae,svg,gmail,linux,ubuntu,kali,windows&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,php,bootstrap,wordpress,angular,react,vite,nginx,nodejs,npm,electron,mysql,py,c,cpp,java,lua,discord,bots,discordjs,unity,github,gitlab,git,stackoverflow,vscode,figma,ps,pr,ae,svg,gmail,linux,ubuntu,kali,windows&theme=light)
 
 ## 📷 My social
 
